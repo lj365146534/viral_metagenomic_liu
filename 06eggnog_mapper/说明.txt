@@ -1,0 +1,1 @@
+STAMP需要全英文路径，所以复制到D:\Program Files (x86)\STAMP\examples\liujia文件夹下面

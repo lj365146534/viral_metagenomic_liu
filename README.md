@@ -1,5 +1,5 @@
 # 宏基因组流程
-本流程有一部分是参考“https://github.com/YongxinLiu/EasyMetagenome”。
+本流程有一部分是参考  https://github.com/YongxinLiu/EasyMetagenome  
 # 1 序列质控
 
 ## 1.0 去除Q值低的碱基
